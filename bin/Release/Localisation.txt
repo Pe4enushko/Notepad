@@ -1,0 +1,29 @@
+// # - знак разделения, на нём прога перестаёт читать строки из нужного языка.
+
+English
+Menu
+Save
+Load
+Exit
+Customization
+Font
+Color
+Background
+About
+Language
+Notepad with customization.
+#
+
+Русский
+Меню
+Сохранить
+Загрузить
+Выход
+Персонализация
+Шрифт
+Цвет
+Фон
+О программе
+Язык
+Блокнот с кастомизацией.
+#
